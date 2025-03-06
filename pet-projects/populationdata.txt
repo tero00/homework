@@ -1,0 +1,237 @@
+Afghanistan		42647492
+Albania		2791764.5
+Algeria		46814307.5
+American Samoa		46765
+Andorra		81937.5
+Angola		37885849.5
+Anguilla		14598.5
+Antigua and Barbuda		93771.5
+Argentina		45696159
+Armenia		2973840.5
+Aruba		108065.5
+Australia		26713205
+Austria		9120813
+Azerbaijan		10336577.5
+Bahamas		401283
+Bahrain		1607048.5
+Bangladesh		173562364
+Barbados		282467.5
+Belarus		9056696
+Belgium		11738763.5
+Belize		417071.5
+Benin		14462724
+Bermuda		64636.5
+Bhutan		791524.5
+Bolivia (Plurinational State of)		12413315
+Bonaire		30675.5
+Bosnia and Herzegovina		3164253
+Botswana		2521139
+Brazil		211998573.5
+British Virgin Islands		39471
+Brunei Darussalam		462721.5
+Bulgaria		6757688.5
+Burkina Faso		23548781
+Burundi		14047786
+Cabo Verde		524877
+Cambodia		17638800.5
+Cameroon		29123743.5
+Canada		39742430
+Cayman Islands		74457.5
+Central African Republic		5330689.5
+Chad		20299123
+Chile		19764771.5
+China		1419321277.5
+China		23213962
+China		720262
+China		7414909.5
+Colombia		52886363.5
+Comoros		866628
+Congo		6332961
+Cook Islands		13729
+Costa Rica		5129910
+Croatia		3875325
+Cuba		10979783
+Curaçao		185481.5
+Cyprus		1358282
+Czechia		10735859
+Côte d'Ivoire		31934230
+Dem. People's Rep. of Korea		26498823
+Dem. Rep. of the Congo		109276264.5
+Denmark		5977412
+Djibouti		1168722
+Dominica		66205
+Dominican Republic		11427557
+Ecuador		18135477.5
+Egypt		116538257.5
+El Salvador		6338193
+Equatorial Guinea		1892516.5
+Eritrea		3535603
+Estonia		1360546
+Eswatini		1242821.5
+Ethiopia		132059767.49999999
+Falkland Islands (Malvinas)		3470.5
+Faroe Islands		55399.5
+Fiji		928784
+Finland		5617310.5
+France		66548530.49999999
+French Guiana		308522.5
+French Polynesia		281806.5
+Gabon		2538951.5
+Gambia		2759987.5
+Georgia		3807670
+Germany		84552242
+Ghana		34427413.5
+Gibraltar		39329
+Greece		10047816.5
+Greenland		55839.5
+Grenada		117207.5
+Guadeloupe		375106
+Guam		167777
+Guatemala		18406359
+Guernsey		64280
+Guinea		14754785.5
+Guinea-Bissau		2201352
+Guyana		831086.5
+Haiti		11772557
+Honduras		10825703.5
+Hungary		9676134.5
+Iceland		393395.5
+India		1450935791
+Indonesia		283487930.5
+Iran (Islamic Republic of)		91567737.5
+Iraq		46042015
+Ireland		5255017.5
+Isle of Man		84160.5
+Israel		9387021
+Italy		59342867
+Jamaica		2839175
+Japan		123753041
+Jersey		103845.5
+Jordan		11552876
+Kazakhstan		20592571
+Kenya		56432944.5
+Kiribati		134518
+Kosovo (under UNSC res. 1244)		1684790
+Kuwait		4934507.5
+Kyrgyzstan		7186009
+Lao People's Dem. Republic		7769819
+Latvia		1871871.5
+Lebanon		5805961.5
+Lesotho		2337422.5
+Liberia		5612817
+Libya		7381023
+Liechtenstein		39870
+Lithuania		2859109.5
+Location		Value
+Luxembourg		673036
+Madagascar		31964956
+Malawi		21655286
+Malaysia		35557673.5
+Maldives		527799
+Mali		24478595.5
+Malta		539607
+Marshall Islands		37548
+Martinique		343194.5
+Mauritania		5169395.5
+Mauritius		1271169
+Mayotte		326505.5
+Mexico		130861007
+Micronesia (Fed. States of)		113160.5
+Monaco		38631
+Mongolia		3475540
+Montenegro		638478.5
+Montserrat		4389
+Morocco		38081173
+Mozambique		34631766
+Myanmar		54500091
+Namibia		3030131
+Nauru		11946.5
+Nepal		29651054.5
+Netherlands		18228741.5
+New Caledonia		292639.5
+New Zealand		5213944
+Nicaragua		6916139.5
+Niger		27032412.5
+Nigeria		232679477.5
+Niue		1818.5
+North Macedonia		1823009
+Northern Mariana Islands		44277.5
+Norway		5576660
+Oman		5281538
+Pakistan		251269164
+Palau		17695.5
+Panama		4515577
+Papua New Guinea		10576501.5
+Paraguay		6929153
+Peru		34217847.5
+Philippines		115843669.5
+Poland		38539201
+Portugal		10425292.5
+Puerto Rico		3242204
+Qatar		3048423
+Republic of Korea		51717590
+Republic of Moldova		3034960.5
+Romania		19015088
+Russian Federation		144820423
+Rwanda		14256566.5
+Réunion		878590.5
+Saint Barthélemy		11257.5
+Saint Helena		5237.5
+Saint Kitts and Nevis		46843
+Saint Lucia		179743.5
+Saint Martin (French part)		26129
+Saint Pierre and Miquelon		5628
+Saint Vincent and the Grenadines		100616
+Samoa		218019.5
+San Marino		33581
+Sao Tome and Principe		235536.5
+Saudi Arabia		33962756.5
+Senegal		18501984.5
+Serbia		6736216
+Seychelles		130418.5
+Sierra Leone		8642022.5
+Singapore		5832387
+Sint Maarten (Dutch part)		43350.5
+Slovakia		5506759.5
+Slovenia		2118696.5
+Solomon Islands		819198
+Somalia		19009151
+South Africa		64007186.5
+South Sudan		11943408.5
+Spain		47910526.5
+Sri Lanka		23103564.5
+State of Palestine		5495443
+Sudan		50448962.5
+Suriname		634431
+Sweden		10606999
+Switzerland		8921981
+Syrian Arab Republic		24672759.5
+Tajikistan		10590927.5
+Thailand		71668011
+Timor-Leste		1400638
+Togo		9515235.5
+Tokelau		2506.5
+Tonga		104175.5
+Trinidad and Tobago		1507781.5
+Tunisia		12277109
+Turkmenistan		7494498.5
+Turks and Caicos Islands		46534.5
+Tuvalu		9645.5
+Türkiye		87473805
+Uganda		50015092.5
+Ukraine		37860221.5
+United Arab Emirates		11027129
+United Kingdom		69138191.5
+United Republic of Tanzania		68560157
+United States Virgin Islands		84905
+United States of America		345426571
+Uruguay		3386587.5
+Uzbekistan		36361859
+Vanuatu		327777.5
+Venezuela (Bolivarian Republic of)		28405543
+Viet Nam		100987686.5
+Wallis and Futuna Islands		11277.5
+Western Sahara		590506
+Yemen		40583164.5
+Zambia		21314955.5
+Zimbabwe		16634372.500000002
